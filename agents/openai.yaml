@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏 UI 概念、切图与 Figma 还原"
+  short_description: "从概念方案到透明素材、可编辑 Figma 拼装，并验证后续优化效果"
+  default_prompt: "使用 $game-ui-concept-to-figma，按本项目已验收的风格完成概念图、元素切图及 Figma 还原，并检查布局、字体和手机显示。"
